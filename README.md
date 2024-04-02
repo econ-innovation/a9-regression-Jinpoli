@@ -16,3 +16,9 @@
 4. 给三周时间（从上周开始算），算是一个比较大的作业，大家认真完成
 
 5. 不要选择提供了R代码的论文
+
+## 小组作业说明：
+**所选论文** ：Azoulay, Pierre, Christian Fons-Rosen, and Joshua S. Graff Zivin. 2019. "Does Science Advance One Funeral at a Time?" American Economic Review, 109 (8): 2889-2920.
+
+小组成员：龚曼宁，佟彤，李锦坡
+分工情况： 龚曼宁：Table1 2 Figure1 2；佟彤：Figure 3；李锦坡：Table3-7
